@@ -4,10 +4,6 @@
 This project focuses on leveraging Google BigQuery to analyze a dataset named `datasets.power`, which contains operational metrics of network devices, and visualizing the results using Looker Studio. The project demonstrates essential steps such as data exploration, transformation, and summarization, culminating in creating a dynamic and insightful dashboard.
 
 ---
-### Link to Dashboard
-
-https://lookerstudio.google.com/reporting/ad4b86e5-d1ae-47f2-85b1-281df22717db
----
 
 ### Objectives
 1. **Fetch and Explore Data:**
