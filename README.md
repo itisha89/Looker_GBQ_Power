@@ -1,4 +1,4 @@
-### README: BigQuery Data Analysis and Visualization Project
+# BigQuery Data Analysis and Visualization Project
 
 #### Project Overview
 This project focuses on leveraging Google BigQuery to analyze a dataset named `datasets.power`, which contains operational metrics of network devices, and visualizing the results using Looker Studio. The project demonstrates essential steps such as data exploration, transformation, and summarization, culminating in creating a dynamic and insightful dashboard.
@@ -138,3 +138,7 @@ The dashboard created in Looker Studio provides:
 - Basic understanding of SQL and data visualization principles.
 
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
